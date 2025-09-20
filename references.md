@@ -1,1 +1,4 @@
-this better cause a conflict cuz i'm evil
+
+# References
+
+* octocat 1 😈
